@@ -1,0 +1,5 @@
+{
+  "name": "Asset Management System",
+  "description": "A comprehensive system to track and manage company assets, from assignment to disposal.",
+  "requestFramePermissions": []
+}
